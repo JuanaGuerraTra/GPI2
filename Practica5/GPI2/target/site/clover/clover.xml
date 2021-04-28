@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1618856974300" clover="4.4.1">
+   <project name="GPI2 GPI2" timestamp="1618856969605">
+      <metrics coveredelements="2" complexity="2" loc="18" methods="2" classes="1" statements="2" packages="1" coveredconditionals="0" coveredmethods="1" elements="4" ncloc="11" files="1" conditionals="0" coveredstatements="1"/>
+      <package name="GPI2">
+         <metrics coveredelements="2" complexity="2" loc="18" methods="2" classes="1" statements="2" coveredconditionals="0" coveredmethods="1" elements="4" ncloc="11" files="1" conditionals="0" coveredstatements="1"/>
+         <file path="/home/alumno/Escritorio/Practicas34/GPI2/src/main/java/GPI2/App.java" name="App.java">
+            <metrics coveredelements="2" coveredconditionals="0" complexity="2" loc="18" coveredmethods="1" methods="2" elements="4" classes="1" ncloc="11" statements="2" conditionals="0" coveredstatements="1"/>
+            <class name="App">
+               <metrics coveredelements="2" coveredconditionals="0" complexity="2" coveredmethods="1" methods="2" elements="4" statements="2" conditionals="0" coveredstatements="1"/>
+            </class>
+            <line complexity="1" visibility="public" signature="main(String[]) : void" num="9" count="0" type="method"/>
+            <line num="11" count="0" type="stmt"/>
+            <line complexity="1" visibility="public" signature="getString() : String" num="14" count="1" type="method"/>
+            <line num="15" count="1" type="stmt"/>
+         </file>
+      </package>
+   </project>
+   <testproject name="GPI2 GPI2" timestamp="1618856969605">
+      <metrics coveredelements="6" complexity="3" loc="39" methods="3" classes="1" statements="3" packages="1" coveredconditionals="0" coveredmethods="3" elements="6" ncloc="21" files="1" conditionals="0" coveredstatements="3"/>
+      <package name="GPI2">
+         <metrics coveredelements="6" complexity="3" loc="39" methods="3" classes="1" statements="3" coveredconditionals="0" coveredmethods="3" elements="6" ncloc="21" files="1" conditionals="0" coveredstatements="3"/>
+         <file path="/home/alumno/Escritorio/Practicas34/GPI2/src/test/java/GPI2/AppTest.java" name="AppTest.java">
+            <metrics coveredelements="6" coveredconditionals="0" complexity="3" loc="39" coveredmethods="3" methods="3" elements="6" classes="1" ncloc="21" statements="3" conditionals="0" coveredstatements="3"/>
+            <class name="AppTest">
+               <metrics coveredelements="6" complexity="3" methods="3" testruns="1" statements="3" coveredconditionals="0" coveredmethods="3" elements="6" testfailures="0" testduration="0.008" conditionals="0" coveredstatements="3" testpasses="1"/>
+            </class>
+            <line complexity="1" visibility="public" signature="AppTest(String)" num="18" count="1" type="method"/>
+            <line num="20" count="1" type="stmt"/>
+            <line complexity="1" visibility="public" signature="suite() : Test" num="26" count="1" type="method"/>
+            <line num="28" count="1" type="stmt"/>
+            <line complexity="1" visibility="public" signature="testApp() : void" num="35" testsuccess="true" count="1" testduration="0.008" type="method"/>
+            <line num="37" count="1" type="stmt"/>
+         </file>
+      </package>
+   </testproject>
+</coverage>
